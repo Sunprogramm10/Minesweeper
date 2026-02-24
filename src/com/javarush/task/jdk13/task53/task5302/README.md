@@ -33,4 +33,4 @@
 
 ### Вариант 2 — локально в IntelliJ IDEA
 1. Установи плагин **JavaRush** (Settings → Plugins → Marketplace → JavaRush)
-2. Скопируй класс `MinesweeperGame` в проект
+2. Скопируй класс `MinesweeperGame`, `GameObject`в проект

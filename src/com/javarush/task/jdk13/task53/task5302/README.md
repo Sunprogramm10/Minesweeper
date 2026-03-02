@@ -7,6 +7,20 @@
 Поставь флажки на все мины и открой безопасные клетки — победа!  
 Если откроешь мину — проигрыш.
 
+## 🚀 Как запустить
+### Вариант 1 — в JavaRush (самый простой)
+1. Залогинься на [javarush.com](https://javarush.com)
+2. Открой проект / задачу по ссылке: https://javarush.com/projects/apps/504649
+### Вариант 2 — локально в IntelliJ IDEA
+1. Установи плагин **JavaRush** (Settings → Plugins → Marketplace → "JavaRush" → Install → Restart)
+2. Скопируй классы `Minesweeper.java` и `GameObject.java` в проект
+3. Правой кнопкой на `SnakeGame` → **Run 'SnakeGame.main()'**
+
+
+### Вариант 2 — локально в IntelliJ IDEA
+1. Установи плагин **JavaRush** (Settings → Plugins → Marketplace → JavaRush)
+2. Скопируй класс `MinesweeperGame`, `GameObject`в проект
+
 ## ✨ Особенности этой реализации
 - Поле 9×9 клеток
 - Случайное размещение мин (~10% клеток)
@@ -27,10 +41,4 @@
 | Перезапустить игру    | Любой клик после победы/проигрыша |
 
 
-## 🚀 Как запустить
-### Вариант 1 — по ссылке https://javarush.com/projects/apps/493205
 
-
-### Вариант 2 — локально в IntelliJ IDEA
-1. Установи плагин **JavaRush** (Settings → Plugins → Marketplace → JavaRush)
-2. Скопируй класс `MinesweeperGame`, `GameObject`в проект
